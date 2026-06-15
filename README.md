@@ -83,7 +83,7 @@ curl -X POST http://localhost:8080/transactions -H "Content-Type: application/js
   -d '{"senderUpiId":"priya@okaxis","receiverUpiId":"rahul@oksbi","amount":250.0,"note":"dinner split"}'
 ```
 
-Output of these calls and the H2 console screenshots are in `WRITEUP.docx`.
+Output of these calls and the H2 console screenshots are in [`docs/WRITEUP.md`](docs/WRITEUP.md).
 
 ## The CREATE TABLE statements (Task 2)
 
